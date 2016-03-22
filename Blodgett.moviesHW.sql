@@ -1,7 +1,7 @@
 SELECT * FROM movies;
 
-SELECT title, movieid FROM movies;
-LIMIT 10
+SELECT title, movieid FROM movies
+LIMIT 10;
 
 SELECT * FROM movies WHERE movieid = 485;
 
